@@ -1,1 +1,12 @@
+# Brainfuck Interpreter
 
+A simple Brainfuck interpreter written in C++.
+
+Open cmd in file directory.
+
+
+## 🚀 How to Compile
+g++ emulator.cpp -o output
+
+# 🚀 How to run?
+output.exe hello.txt
