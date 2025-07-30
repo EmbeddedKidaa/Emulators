@@ -10,8 +10,8 @@ work at a low level by building them from scratch.
 Projects
 --------
 
+--------------------------------------------------------------------------------------
 1. Brainfuck Interpreter
-------------------------
 A simple interpreter for the Brainfuck programming language — an esoteric language with only 8 commands.
 
 Files:
@@ -24,9 +24,9 @@ To compile:
 
 To run:
     output.exe test.txt
-
+    
+----------------------------------------------------------------------------------------------
 2. Coming Soon: Intel 8080 Emulator
------------------------------------
 This will emulate the classic Intel 8080 CPU, including:
 - Opcode decoding
 - Registers and flags
