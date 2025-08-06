@@ -1,9 +1,15 @@
+#myname( my rom )
+![Myname](path/to/image.png)
+
+#test_opcode
+
+
 
 # CHIP 8 Emulator
 
 CHIP-8 is an interpretted programming language developed by Joseph Weisbecker in the mid 70s and was initally used on the COSMAC VIP and Telmac 1800 8-bit microcomputers to make game programming easier. CHIP-8 programs are run using a CHIP-8 virtual machine.
 
-This is a fairly complete implementation of a CHIP-8 virtual machine however there is currently no sound.
+This is a fairly complete implementation of a CHIP-8 virtual machine however there is currently no sound.I have also implemented a console debug code for visualising internnals of CHIP 8 during runtime.
 
 # How to Compile and Run
 
