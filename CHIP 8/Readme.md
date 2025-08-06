@@ -1,8 +1,15 @@
 #myname( my rom )
-![Myname](path/to/image.png)
+
+![Myname](test_codes/myname.png)
+
 
 #test_opcode
 
+![test_opcode](test_codes/test_opcode.png)
+
+#IBM
+
+![IBM](test_codes/IBM.png)
 
 
 # CHIP 8 Emulator
